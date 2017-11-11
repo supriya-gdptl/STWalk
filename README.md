@@ -22,7 +22,7 @@ python STWalk1.py --dataset epinion
 ```
 
 ## To run the STWalk2 algorithm:
-The output will be saved in */epinion/output_stwalktwo/* folder
+The output will be saved in */ciao/output_stwalktwo/* folder
 
 ```
 cd code
