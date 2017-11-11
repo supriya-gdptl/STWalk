@@ -4,8 +4,10 @@ This repository contains implementation of "STWalk: Learning Trajectory Represen
 
 STWalk uses structural properties of graphs at present and previous time-steps to capture the spatio-temporal behavior of nodes. 
 There are two variants of STWalk:
- *  STWalk1: Learns the trajectory representation of node by considering spatial and temporal neighbors at the same time. Figure1 below shows the spatiotemporal graph generated for a single node u_t.
+ *  STWalk1: Learns the trajectory representation of node by considering spatial and temporal neighbors at the same time. Figure below shows the spatiotemporal graph generated for a single node u_t.
  *  STWalk2: It learns spatial representation and temporal representation separately and then combines them to generate trajectory representation.
+
+![alt text](./STWalk1.png)
 
 ## Requirement
 *  python 3.4 (or later)
