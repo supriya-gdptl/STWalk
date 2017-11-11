@@ -7,7 +7,7 @@ There are two variants of STWalk:
  *  STWalk1: Learns the trajectory representation of node by considering spatial and temporal neighbors at the same time. Figure below shows the spatiotemporal graph generated for a single node u_t.
  *  STWalk2: It learns spatial representation and temporal representation separately and then combines them to generate trajectory representation.
 
-![STWalk1.png](./STWalk1.png=200x200)
+![STWalk1.png](STWalk1.png=100x200)
 
 ## Requirement
 *  python 3.4 (or later)
