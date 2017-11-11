@@ -1,0 +1,953 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="Ralph M. Weischedel" />
+    <node id="John Makhoul" />
+    <node id="Yu. Klykov" />
+    <node id="Silvano Rivoira" />
+    <node id="P. Cohen" />
+    <node id="Peter Bruell" />
+    <node id="J. Hale" />
+    <node id="B. Boverie" />
+    <node id="Gary G. Hendrix" />
+    <node id="John L. Pfaltz" />
+    <node id="Istvaacuten Neacutemeti" />
+    <node id="Alan C. Kay" />
+    <node id="William T. Alsbrooks" />
+    <node id="Christopher Riesbeck" />
+    <node id="Charles F. Schmidt" />
+    <node id="Carlo Montangero" />
+    <node id="V. Jaroshevskij" />
+    <node id="Daniel G. Bobrow" />
+    <node id="K. Mori" />
+    <node id="Horace Enea" />
+    <node id="S. Fomin" />
+    <node id="Charles C. Tappert" />
+    <node id="Roger C. Schank" />
+    <node id="Jonathan Slocum" />
+    <node id="J. C. Lee" />
+    <node id="W. O. Clark" />
+    <node id="James P. Fry" />
+    <node id="Mark E. Stickel" />
+    <node id="Dennis McLeod" />
+    <node id="David B. Loveman" />
+    <node id="Georgy L. Gimel'farb" />
+    <node id="N. S. Sridharan" />
+    <node id="Michael Hammer" />
+    <node id="Richard B. Neely" />
+    <node id="Bertram C. Bruce" />
+    <node id="Edward R. Jones" />
+    <node id="Chin-Liang Chang" />
+    <node id="Harry Wechsler" />
+    <node id="William A. Woods" />
+    <node id="Carl E. Taylor" />
+    <node id="Vincent Y. Lum" />
+    <node id="Jin-ichi Nagumo" />
+    <node id="V. Domentyev" />
+    <node id="Norman I. Badler" />
+    <node id="E. Kuzin" />
+    <node id="S. Bing Yao" />
+    <node id="Arie Shoshani" />
+    <node id="Gen-ichiro Kinoshita" />
+    <node id="Anthony C. Klug" />
+    <node id="H. Yode" />
+    <node id="R. Erenshtein" />
+    <node id="G. M. Adelson-Velskiy" />
+    <node id="Frederick B. Thompson" />
+    <node id="Paul Rovner" />
+    <node id="J. Myers" />
+    <node id="Saburo Tsuji" />
+    <node id="Bruce G. Buchanan" />
+    <node id="Haruo Yoda" />
+    <node id="V. I. Rybak" />
+    <node id="Larry Travis" />
+    <node id="Frederic P. Fischer II" />
+    <node id="George F. Luger" />
+    <node id="L. Melli" />
+    <node id="John Mylopoulos" />
+    <node id="Marc Eisenstadt" />
+    <node id="K. Brandon" />
+    <node id="M. Ejirl" />
+    <node id="Laacuteszloacute Meacutero" />
+    <node id="Kenneth Mark Colby" />
+    <node id="J. Pearlman" />
+    <node id="Michiharu Tsukamoto" />
+    <node id="Sam Rosenfeld" />
+    <node id="Eric G. Manning" />
+    <node id="V. Beletskii" />
+    <node id="Milos Pacak" />
+    <node id="J. Dreussi" />
+    <node id="Ugo Montanari" />
+    <node id="A. Kiessling" />
+    <node id="M. Yagl" />
+    <node id="N. Amosov" />
+    <node id="Victor Scheinman" />
+    <node id="E. Kanaov" />
+    <node id="Donald A. Waterman" />
+    <node id="L. Kasatkina" />
+    <node id="Zohar Manna" />
+    <node id="G. M. Feldman" />
+    <node id="James R. Driscoll" />
+    <node id="William H. Henneman" />
+    <node id="Robin J. Popplestone" />
+    <node id="George Stiny" />
+    <node id="G. L. Lasseter" />
+    <node id="Walter Jacobs" />
+    <node id="G. Goldin" />
+    <node id="A. Kasatkin" />
+    <node id="N. Zavalishin" />
+    <node id="Gilles Farley" />
+    <node id="M. Symons" />
+    <node id="Z. Vassy" />
+    <node id="Ramakant Nevatia" />
+    <node id="Warren L. G. Koontz" />
+    <node id="E. S. Cosloy" />
+    <node id="P. Kim" />
+    <node id="Dabbala Rajagopal Reddy" />
+    <node id="E. Sommerfeld" />
+    <node id="Gert Dathe" />
+    <node id="E. Kugushev" />
+    <node id="Jim Gray" />
+    <node id="Y. Rubachin" />
+    <node id="A. Narinyani" />
+    <node id="Hans Albrecht Schmid" />
+    <node id="Peter M. Will" />
+    <node id="Charles Kellogg" />
+    <node id="Alexander K. Platonov" />
+    <node id="C. W. Thompson" />
+    <node id="Anthony J. Winkler" />
+    <node id="Leonard Uhr" />
+    <node id="K. Sundar Das" />
+    <node id="H. Rex Hartson" />
+    <node id="J. Motolke" />
+    <node id="Keith S. Pennington" />
+    <node id="H. Townsend" />
+    <node id="Raymond A. Lorie" />
+    <node id="Harry G. Barrow" />
+    <node id="Petr Sgall" />
+    <node id="D. Austin Henderson Jr." />
+    <node id="Tadashi Nagata" />
+    <node id="Edwin B. Parker" />
+    <node id="Sara Jordan" />
+    <node id="Eva Hajicovaacute" />
+    <node id="John W. Roach" />
+    <node id="B. L. Hills" />
+    <node id="Lawrence G. Tesler" />
+    <node id="Robert F. Simmons" />
+    <node id="L. Tannenholz" />
+    <node id="Kaoru Nakano" />
+    <node id="John A. Moyne" />
+    <node id="J. Dueck" />
+    <node id="George W. Ernst" />
+    <node id="Keinosuke Fukunaga" />
+    <node id="Alfred G. Dale" />
+    <node id="Karl-Heinz Dreckmann" />
+    <node id="A. Ershov" />
+    <node id="Robert S. Boyer" />
+    <node id="Jacques Flament" />
+    <node id="Mark L. Reynolds" />
+    <node id="Maxine Kiefer" />
+    <node id="N. R. Dixon" />
+    <node id="Shamkant B. Navathe" />
+    <node id="Victor R. Lesser" />
+    <node id="Fridrich Sloboda" />
+    <node id="Alfonso F. Cardenas" />
+    <node id="Dennis Tsichritzis" />
+    <node id="Richard A. Lewis" />
+    <node id="Aravind K. Joshi" />
+    <node id="Kapali P. Eswaran" />
+    <node id="V. Michima" />
+    <node id="Wiley R. McKinzie" />
+    <node id="Franco Sirovich" />
+    <node id="Kenneth Biss" />
+    <node id="Robert F. Sproull" />
+    <node id="R. G. Thomson" />
+    <node id="Renato de Mori" />
+    <node id="Edward B. Altman" />
+    <node id="Clement T. Yu" />
+    <node id="Giorgio Levi" />
+    <node id="M. Cohen" />
+    <node id="L. Shmelev" />
+    <node id="A. H. Watt" />
+    <node id="P. Murden" />
+    <node id="Bradford Heckman" />
+    <node id="S. Iwata" />
+    <node id="Franco Turini" />
+    <node id="Eduardo B. Fernaacutendez" />
+    <node id="Norman Raver" />
+    <node id="Gilbert Falk" />
+    <node id="John J. Donovan" />
+    <node id="Michael E. Senko" />
+    <node id="J. Quinton" />
+    <node id="Stewart N. T. Shen" />
+    <node id="Oscar Firschein" />
+    <node id="R. Paul" />
+    <node id="Allan M. Collins" />
+    <node id="D. E. Okhotsimsky" />
+    <node id="Vladimir L. Arlazarov" />
+    <node id="Earl Hunt" />
+    <node id="Mario Aiello" />
+    <node id="Rod M. Burstall" />
+    <node id="Azriel Rosenfeld" />
+    <node id="Thomas B. Sheridan" />
+    <node id="C. Roche" />
+    <node id="C. Cordell Green" />
+    <node id="James E. Mulford" />
+    <node id="C. Green" />
+    <node id="Andrew B. Whinston" />
+    <node id="V. Fomenko" />
+    <node id="W. Snyder" />
+    <node id="Giuliano Pacini" />
+    <node id="Jay M. Tenenbaum" />
+    <node id="John Miles Smith" />
+    <node id="K. F. Samokhvalov" />
+    <node id="Gary A. Kildall" />
+    <node id="J. Bruce Fraser" />
+    <node id="H. Genchi" />
+    <node id="Kiyoo Takeyasu" />
+    <node id="V. Jones" />
+    <node id="Masakazu Ejiri" />
+    <node id="Stuart G. Greenberg" />
+    <node id="Bozena H. Dostert" />
+    <node id="Kenneth R. Laughery" />
+    <node id="Chyuan Shiun Lin" />
+    <node id="Donald D. Chamberlin" />
+    <node id="Michael H. Smith" />
+    <node id="I. Fominykh" />
+    <node id="J. B. Cohen" />
+    <node id="M. Gaft" />
+    <node id="Vesko Marinov" />
+    <node id="James Gips" />
+    <node id="Jeffrey Yeh" />
+    <node id="A. Hill" />
+    <node id="C. P. Wang" />
+    <node id="Antal K. Bejczy" />
+    <node id="E. Neidhart" />
+    <node id="Jerome A. Feldman" />
+    <node id="Robert M. Hodgson" />
+    <node id="Kunikatsu Takase" />
+    <node id="Marilyn M. Mantei" />
+    <node id="Masato Yamazaki" />
+    <node id="Jeffrey A. Hoffer" />
+    <node id="Peter Freeman" />
+    <node id="T. Gorgely" />
+    <node id="W. J. Berman" />
+    <node id="Robert Healey" />
+    <node id="Daniel Bertaux" />
+    <node id="G. A. Gelade" />
+    <node id="Ann E. Robinson" />
+    <node id="N. Ivacevic" />
+    <node id="V. Krol" />
+    <node id="Nick Cercone" />
+    <node id="James C. Browne" />
+    <node id="Gerard Salton" />
+    <node id="G. Jack Lipovski" />
+    <node id="D. R. McGregor" />
+    <node id="Richard J. Waldinger" />
+    <node id="Manabu Takeda" />
+    <node id="M. Slae" />
+    <node id="Allen L. Pinkus" />
+    <node id="G. Kotler" />
+    <node id="L. L. Shannon" />
+    <node id="T. Nishimura" />
+    <node id="W. D. Gregg" />
+    <node id="V. Yufa" />
+    <node id="Y. Iwamaru" />
+    <node id="Lucien A. Gerardin" />
+    <node id="V. Pyatkin" />
+    <node id="P. Tchudinov" />
+    <node id="Seiichi Inoue" />
+    <node id="Yoshiaki Shirai" />
+    <node id="Rafael Fessel" />
+    <node id="L. Stephen Coles" />
+    <node id="John Darlington" />
+    <node id="Rita C. Summers" />
+    <node id="Robert T. Chien" />
+    <node id="F. Roecker" />
+    <node id="A. Rats" />
+    <node id="Rada M. Granovskaya" />
+    <node id="Manfred Kochen" />
+    <node id="Alexander Borgida" />
+    <node id="Boris M. Dobrotin" />
+    <node id="J. K. Metzger" />
+    <node id="David E. Rumelhart" />
+    <node id="E. Kussul" />
+    <node id="Peter L. Noerr" />
+    <node id="Gerald J. Agin" />
+    <node id="Fredric C. Gey" />
+    <node id="W. Kolbe" />
+    <node id="David Canfield Smith" />
+    <node id="Angelo Serra" />
+    <node id="Christopher M. Brown" />
+    <node id="Akira Kurematsu" />
+    <node id="Neil M. Goldman" />
+    <node id="Dennis de Champeaux" />
+    <node id="V. Serebriekov" />
+    <node id="W. N. Dawson" />
+    <node id="R. L. Beurle" />
+    <node id="Andrew K. C. Wong" />
+    <node id="Fred A. Stahl" />
+    <node id="S. Kamynin" />
+    <node id="Lenie Sint" />
+    <node id="T. Kirsanova" />
+    <node id="Richard Steiger" />
+    <node id="Elliot B. Koffman" />
+    <node id="Kenneth Fogt" />
+    <node id="Jaroslav Fogel" />
+    <node id="A. Nakamura" />
+    <node id="Irving L. Traiger" />
+    <node id="Makoto Nagao" />
+    <node id="P. F. King" />
+    <node id="Luigi P. Cordella" />
+    <node id="Jun'ichi Tsujii" />
+    <node id="I. Lubinsky" />
+    <node id="R. Hart" />
+    <node id="Aviezri S. Fraenkel" />
+    <node id="Wesley W. Chu" />
+    <node id="Masahiro Mori" />
+    <node id="J. R. Schroeder" />
+    <node id="W. C. Kiefer" />
+    <node id="Steven W. Zucker" />
+    <node id="Michael F. Mitoma" />
+    <node id="E. F. Kushner" />
+    <node id="Hajnal Andreacuteka" />
+    <node id="Georg Walch" />
+    <node id="Stuart C. Shapiro" />
+    <node id="Frederick Hayes-Roth" />
+    <node id="Charles J. Rieger III" />
+    <node id="Jack E. Shemer" />
+    <node id="L. Sugar" />
+    <node id="James R. McSkimin" />
+    <node id="M. V. Donskoy" />
+    <node id="Gianfranco R. Putzolu" />
+    <node id="Richard C. T. Lee" />
+    <node id="W. Frank King III" />
+    <node id="Tatsuo Goto" />
+    <node id="M. V. Daniels" />
+    <node id="Keki B. Irani" />
+    <node id="Juro Oizumi" />
+    <node id="Larry S. Davis" />
+    <node id="M. Nakanishi" />
+    <node id="Alberto Martelli" />
+    <node id="Y. Edmund Lien" />
+    <node id="S. Katsuragi" />
+    <node id="Lenhart K. Schubert" />
+    <node id="M. Nogeta" />
+    <node id="N. Pozin" />
+    <node id="Rudolf Bayer" />
+    <node id="Frank O'Gorman" />
+    <node id="V. S. Gurfinkel" />
+    <node id="Donald A. Norman" />
+    <node id="G. Crawford" />
+    <node id="Richard K. Ridall" />
+    <node id="J. Strother Moore" />
+    <node id="T. Hoshino" />
+    <node id="Laurent Sikloacutessy" />
+    <node id="Philip Klahr" />
+    <node id="A. K. Platongy" />
+    <node id="A. Checroun" />
+    <node id="Joshua Lederberg" />
+    <node id="Robert P. Abelson" />
+    <node id="Steven J. Weissman" />
+    <node id="David R. Barstow" />
+    <node id="G. Grape" />
+    <node id="Arnold W. Pratt" />
+    <node id="George P. Copeland" />
+    <node id="E. Nahouraii" />
+    <node id="Raymond F. Boyce" />
+    <node id="M. Ioffe" />
+    <node id="S. Watanabe" />
+    <node id="B. Lomov" />
+    <node id="James R. Slagle" />
+    <node id="Diane C. P. Smith" />
+    <node id="Shoichi Noguchi" />
+    <node id="Larry Kerschberg" />
+    <node id="Dmitri A. Pospelov" />
+    <node id="A. Yu. Shneider" />
+    <node id="David K. Hsiao" />
+    <node id="J. Spruce Riordon" />
+    <node id="A. J. Crawford" />
+    <node id="Tomaacutes Lang" />
+    <node id="Peter Boehler Bishop" />
+    <node id="Alan L. Tharp" />
+    <node id="V. Ozernoi" />
+    <node id="H. Hagendori" />
+    <node id="Thomas H. Martin" />
+    <node id="George H. Woodmansee" />
+    <node id="Masahiko Yachida" />
+    <node id="R. Miller" />
+    <node id="W. W. Bledsoe" />
+    <node id="George U. Hubbard" />
+    <node id="Yoram Yakimovsky" />
+    <node id="James S. Albus" />
+    <node id="Leon E. Winslow" />
+    <node id="Nils J. Nilsson" />
+    <node id="Karl K. Pingle" />
+    <node id="E. Gurfinkel" />
+    <node id="M. C. White" />
+    <node id="Andreacute-Roch Lecours" />
+    <node id="M. B. Clowes" />
+    <node id="H. C. Heacox" />
+    <node id="Carl Hewitt" />
+    <node id="Shingo Tomita" />
+    <node id="Yaacov Choueka" />
+    <node id="K. Kiji" />
+    <node id="A. Patricia Ambler" />
+    <node id="R. B. Guy" />
+    <node id="Shmuel Katz" />
+    <node id="W. Wartout" />
+    <node id="Dennis G. Severance" />
+    <node id="Timothy Diller" />
+    <node id="Allen Newell" />
+    <node id="G. Pozdnyak" />
+    <node id="Samy A. Mahmoud" />
+    <node id="William D. Haseman" />
+    <node id="D. Shaw" />
+    <node id="Takeshi Uno" />
+    <node id="Philip A. Bernstein" />
+    <node id="S. Ishino" />
+    <node id="Daniel H. Fishman" />
+    <node id="L. O. Brooks" />
+    <node id="Toby J. Teorey" />
+    <node id="Ranan B. Banerji" />
+    <node id="L. Rastrigin" />
+    <node id="Tamaacutes Gergely" />
+    <node id="D. Moslow" />
+    <node id="John D. Burger" />
+    <node id="I. J. Bereznaya" />
+    <node id="Edward A. Patrick" />
+    <node id="R. Erbe" />
+    <node id="Harukazu Nishio" />
+    <node id="Richard W. Weyhrauch" />
+    <node id="James R. Carbonell" />
+    <node id="S. Weyl" />
+    <node id="D. Zavalishina" />
+    <node id="Sumner E. Blount" />
+    <node id="I. Mel'chuk" />
+    <node id="Motoi Suwa" />
+    <node id="Jack Minker" />
+    <node id="Martin A. Fischler" />
+    <node id="Richard L. Guertin" />
+    <node id="Irwin Sobel" />
+    <node id="Lee D. Erman" />
+    <node id="Shuhei Aida" />
+    <node id="Carol M. Reich" />
+    <node id="Edward A. Feigenbaum" />
+    <node id="Jack Sklansky" />
+    <node id="P. Hauff" />
+    <node id="Richard Fikes" />
+    <node id="Alan G. Merten" />
+    <node id="D. Sykas" />
+    <node id="Stewart A. Schuster" />
+    <node id="P. Saraga" />
+    <node id="J. C. Simon" />
+    <node id="Edward L. Morofsky" />
+    <node id="William H. Paxton" />
+    <node id="Robert G. Tobey" />
+    <node id="M. Goeze-Rapopori" />
+    <node id="Gilbert K. Krulee" />
+    <node id="Donald W. Loveland" />
+    <node id="Walter E. Simonson" />
+    <node id="V. Briebrin" />
+    <node id="Louis M. Gutentag" />
+    <node id="William R. Ferrell" />
+    <node id="Franccedilois Lhermitte" />
+    <node id="Nick Roussopoulos" />
+    <node id="Harry E. Pople" />
+    <node id="Stanley Y. W. Su" />
+    <node id="John D'Addamio" />
+    <node id="R. Shelnin" />
+    <node id="V. Pushkin" />
+    <node id="R. D. Fenneli" />
+    <node id="N. G. Zagoruyko" />
+    <node id="Richard Peebles" />
+    <node id="A. Nariniany" />
+    <node id="G. Henselmann" />
+    <node id="David Chen" />
+    <node id="V. Zekharov" />
+    <node id="A. Andrew" />
+    <node id="Y. Buchstab" />
+    <node id="Fumiaki Tomita" />
+    <node id="V. Akhutin" />
+    <node id="Yaakov Kareev" />
+    <node id="H. Chien" />
+    <node id="Nicholas V. Findler" />
+    <node id="Thomas O. Binford" />
+    <edge source="Ralph M. Weischedel" target="Aravind K. Joshi" />
+    <edge source="John Makhoul" target="William A. Woods" />
+    <edge source="Yu. Klykov" target="V. Pushkin" />
+    <edge source="Silvano Rivoira" target="Renato de Mori" />
+    <edge source="Silvano Rivoira" target="Angelo Serra" />
+    <edge source="P. Cohen" target="L. Sugar" />
+    <edge source="P. Cohen" target="John Mylopoulos" />
+    <edge source="P. Cohen" target="Alexander Borgida" />
+    <edge source="Peter Bruell" target="W. W. Bledsoe" />
+    <edge source="J. Hale" target="P. Saraga" />
+    <edge source="B. Boverie" target="W. D. Gregg" />
+    <edge source="Gary G. Hendrix" target="Jonathan Slocum" />
+    <edge source="Gary G. Hendrix" target="C. W. Thompson" />
+    <edge source="John L. Pfaltz" target="Azriel Rosenfeld" />
+    <edge source="Istvaacuten Neacutemeti" target="T. Gorgely" />
+    <edge source="Istvaacuten Neacutemeti" target="Tamaacutes Gergely" />
+    <edge source="Istvaacuten Neacutemeti" target="Hajnal Andreacuteka" />
+    <edge source="Alan C. Kay" target="Jay M. Tenenbaum" />
+    <edge source="Alan C. Kay" target="Robert F. Sproull" />
+    <edge source="Alan C. Kay" target="R. Paul" />
+    <edge source="Alan C. Kay" target="Karl K. Pingle" />
+    <edge source="Alan C. Kay" target="Jerome A. Feldman" />
+    <edge source="Alan C. Kay" target="Gilbert Falk" />
+    <edge source="Alan C. Kay" target="Thomas O. Binford" />
+    <edge source="William T. Alsbrooks" target="Walter E. Simonson" />
+    <edge source="Christopher Riesbeck" target="Charles J. Rieger III" />
+    <edge source="Christopher Riesbeck" target="Roger C. Schank" />
+    <edge source="Christopher Riesbeck" target="Neil M. Goldman" />
+    <edge source="Charles F. Schmidt" target="John D'Addamio" />
+    <edge source="Carlo Montangero" target="Giuliano Pacini" />
+    <edge source="Carlo Montangero" target="Franco Turini" />
+    <edge source="V. Jaroshevskij" target="E. Kugushev" />
+    <edge source="Daniel G. Bobrow" target="J. Bruce Fraser" />
+    <edge source="K. Mori" target="S. Katsuragi" />
+    <edge source="K. Mori" target="S. Watanabe" />
+    <edge source="K. Mori" target="H. Genchi" />
+    <edge source="Horace Enea" target="David Canfield Smith" />
+    <edge source="Horace Enea" target="Lawrence G. Tesler" />
+    <edge source="Horace Enea" target="Kenneth Mark Colby" />
+    <edge source="S. Fomin" target="A. Yu. Shneider" />
+    <edge source="S. Fomin" target="E. Gurfinkel" />
+    <edge source="S. Fomin" target="V. S. Gurfinkel" />
+    <edge source="S. Fomin" target="E. Kanaov" />
+    <edge source="Charles C. Tappert" target="N. R. Dixon" />
+    <edge source="Roger C. Schank" target="Charles J. Rieger III" />
+    <edge source="Roger C. Schank" target="Lawrence G. Tesler" />
+    <edge source="Roger C. Schank" target="Neil M. Goldman" />
+    <edge source="Roger C. Schank" target="Robert P. Abelson" />
+    <edge source="Jonathan Slocum" target="C. W. Thompson" />
+    <edge source="J. C. Lee" target="Leon E. Winslow" />
+    <edge source="W. O. Clark" target="L. L. Shannon" />
+    <edge source="James P. Fry" target="Shamkant B. Navathe" />
+    <edge source="Mark E. Stickel" target="Donald W. Loveland" />
+    <edge source="Dennis McLeod" target="Michael Hammer" />
+    <edge source="David B. Loveman" target="Robert G. Tobey" />
+    <edge source="David B. Loveman" target="John A. Moyne" />
+    <edge source="Georgy L. Gimel'farb" target="V. I. Rybak" />
+    <edge source="Georgy L. Gimel'farb" target="E. F. Kushner" />
+    <edge source="N. S. Sridharan" target="Bruce G. Buchanan" />
+    <edge source="Michael Hammer" target="Raymond F. Boyce" />
+    <edge source="Michael Hammer" target="W. Frank King III" />
+    <edge source="Michael Hammer" target="Donald D. Chamberlin" />
+    <edge source="Richard B. Neely" target="Dabbala Rajagopal Reddy" />
+    <edge source="Richard B. Neely" target="R. D. Fenneli" />
+    <edge source="Richard B. Neely" target="Lee D. Erman" />
+    <edge source="Bertram C. Bruce" target="Robert F. Simmons" />
+    <edge source="Edward R. Jones" target="Stewart N. T. Shen" />
+    <edge source="Chin-Liang Chang" target="Richard C. T. Lee" />
+    <edge source="Chin-Liang Chang" target="James R. Slagle" />
+    <edge source="Harry Wechsler" target="Jack Sklansky" />
+    <edge source="Carl E. Taylor" target="James R. Driscoll" />
+    <edge source="Carl E. Taylor" target="Y. Edmund Lien" />
+    <edge source="Carl E. Taylor" target="Mark L. Reynolds" />
+    <edge source="Vincent Y. Lum" target="C. P. Wang" />
+    <edge source="Jin-ichi Nagumo" target="Kaoru Nakano" />
+    <edge source="V. Domentyev" target="P. Kim" />
+    <edge source="V. Domentyev" target="A. Narinyani" />
+    <edge source="V. Domentyev" target="V. Pyatkin" />
+    <edge source="Norman I. Badler" target="John Mylopoulos" />
+    <edge source="Norman I. Badler" target="Nick Roussopoulos" />
+    <edge source="Norman I. Badler" target="L. Melli" />
+    <edge source="E. Kuzin" target="I. Fominykh" />
+    <edge source="E. Kuzin" target="G. Pozdnyak" />
+    <edge source="S. Bing Yao" target="Alan G. Merten" />
+    <edge source="S. Bing Yao" target="Toby J. Teorey" />
+    <edge source="S. Bing Yao" target="K. Sundar Das" />
+    <edge source="Arie Shoshani" target="K. Brandon" />
+    <edge source="Gen-ichiro Kinoshita" target="Masahiro Mori" />
+    <edge source="Gen-ichiro Kinoshita" target="Shuhei Aida" />
+    <edge source="Anthony C. Klug" target="Larry Kerschberg" />
+    <edge source="Anthony C. Klug" target="Dennis Tsichritzis" />
+    <edge source="H. Yode" target="J. Motolke" />
+    <edge source="H. Yode" target="M. Ejirl" />
+    <edge source="R. Erenshtein" target="L. Rastrigin" />
+    <edge source="G. M. Adelson-Velskiy" target="Vladimir L. Arlazarov" />
+    <edge source="G. M. Adelson-Velskiy" target="M. V. Donskoy" />
+    <edge source="Frederick B. Thompson" target="Bozena H. Dostert" />
+    <edge source="Paul Rovner" target="D. Austin Henderson Jr." />
+    <edge source="J. Myers" target="Harry E. Pople" />
+    <edge source="J. Myers" target="R. Miller" />
+    <edge source="Saburo Tsuji" target="Fumiaki Tomita" />
+    <edge source="Saburo Tsuji" target="Yoshiaki Shirai" />
+    <edge source="Saburo Tsuji" target="Masahiko Yachida" />
+    <edge source="Saburo Tsuji" target="A. Nakamura" />
+    <edge source="Bruce G. Buchanan" target="Joshua Lederberg" />
+    <edge source="Bruce G. Buchanan" target="Edward A. Feigenbaum" />
+    <edge source="Haruo Yoda" target="Kiyoo Takeyasu" />
+    <edge source="Haruo Yoda" target="Masakazu Ejiri" />
+    <edge source="Haruo Yoda" target="Tatsuo Goto" />
+    <edge source="Haruo Yoda" target="Takeshi Uno" />
+    <edge source="V. I. Rybak" target="E. F. Kushner" />
+    <edge source="Larry Travis" target="Philip Klahr" />
+    <edge source="Larry Travis" target="Charles Kellogg" />
+    <edge source="Frederic P. Fischer II" target="Edward A. Patrick" />
+    <edge source="George F. Luger" target="G. Goldin" />
+    <edge source="L. Melli" target="John Mylopoulos" />
+    <edge source="L. Melli" target="Nick Roussopoulos" />
+    <edge source="John Mylopoulos" target="L. Sugar" />
+    <edge source="John Mylopoulos" target="Nick Roussopoulos" />
+    <edge source="John Mylopoulos" target="Alexander Borgida" />
+    <edge source="Marc Eisenstadt" target="Yaakov Kareev" />
+    <edge source="M. Ejirl" target="J. Motolke" />
+    <edge source="Laacuteszloacute Meacutero" target="Z. Vassy" />
+    <edge source="Kenneth Mark Colby" target="David Canfield Smith" />
+    <edge source="Kenneth Mark Colby" target="Lawrence G. Tesler" />
+    <edge source="J. Pearlman" target="Jay M. Tenenbaum" />
+    <edge source="J. Pearlman" target="Irwin Sobel" />
+    <edge source="J. Pearlman" target="Jerome A. Feldman" />
+    <edge source="J. Pearlman" target="Gilbert Falk" />
+    <edge source="J. Pearlman" target="G. M. Feldman" />
+    <edge source="J. Pearlman" target="G. Grape" />
+    <edge source="Michiharu Tsukamoto" target="Tadashi Nagata" />
+    <edge source="Michiharu Tsukamoto" target="Masato Yamazaki" />
+    <edge source="Sam Rosenfeld" target="Jack Minker" />
+    <edge source="Eric G. Manning" target="Richard Peebles" />
+    <edge source="V. Beletskii" target="T. Kirsanova" />
+    <edge source="V. Beletskii" target="P. Tchudinov" />
+    <edge source="Milos Pacak" target="Arnold W. Pratt" />
+    <edge source="J. Dreussi" target="Laurent Sikloacutessy" />
+    <edge source="Ugo Montanari" target="Alberto Martelli" />
+    <edge source="A. Kiessling" target="F. Roecker" />
+    <edge source="M. Yagl" target="N. Zavalishin" />
+    <edge source="M. Yagl" target="R. Shelnin" />
+    <edge source="N. Amosov" target="V. Fomenko" />
+    <edge source="N. Amosov" target="E. Kussul" />
+    <edge source="N. Amosov" target="L. Kasatkina" />
+    <edge source="N. Amosov" target="A. Kasatkin" />
+    <edge source="Victor Scheinman" target="Boris M. Dobrotin" />
+    <edge source="E. Kanaov" target="A. Yu. Shneider" />
+    <edge source="E. Kanaov" target="E. Gurfinkel" />
+    <edge source="E. Kanaov" target="V. S. Gurfinkel" />
+    <edge source="Donald A. Waterman" target="Allen Newell" />
+    <edge source="L. Kasatkina" target="A. Kasatkin" />
+    <edge source="Zohar Manna" target="Shmuel Katz" />
+    <edge source="Zohar Manna" target="Richard J. Waldinger" />
+    <edge source="G. M. Feldman" target="Jay M. Tenenbaum" />
+    <edge source="G. M. Feldman" target="Irwin Sobel" />
+    <edge source="G. M. Feldman" target="Jerome A. Feldman" />
+    <edge source="G. M. Feldman" target="Gilbert Falk" />
+    <edge source="G. M. Feldman" target="G. Grape" />
+    <edge source="James R. Driscoll" target="Y. Edmund Lien" />
+    <edge source="James R. Driscoll" target="Mark L. Reynolds" />
+    <edge source="William H. Henneman" target="Robert S. Boyer" />
+    <edge source="William H. Henneman" target="W. W. Bledsoe" />
+    <edge source="Robin J. Popplestone" target="Christopher M. Brown" />
+    <edge source="Robin J. Popplestone" target="Harry G. Barrow" />
+    <edge source="Robin J. Popplestone" target="G. Crawford" />
+    <edge source="Robin J. Popplestone" target="A. Patricia Ambler" />
+    <edge source="Robin J. Popplestone" target="Rod M. Burstall" />
+    <edge source="George Stiny" target="James Gips" />
+    <edge source="G. L. Lasseter" target="James C. Browne" />
+    <edge source="Walter Jacobs" target="Maxine Kiefer" />
+    <edge source="N. Zavalishin" target="R. Shelnin" />
+    <edge source="Gilles Farley" target="Stewart A. Schuster" />
+    <edge source="M. Symons" target="P. Murden" />
+    <edge source="Ramakant Nevatia" target="Thomas O. Binford" />
+    <edge source="Warren L. G. Koontz" target="Keinosuke Fukunaga" />
+    <edge source="E. S. Cosloy" target="J. B. Cohen" />
+    <edge source="E. S. Cosloy" target="H. C. Heacox" />
+    <edge source="P. Kim" target="A. Narinyani" />
+    <edge source="P. Kim" target="V. Pyatkin" />
+    <edge source="Dabbala Rajagopal Reddy" target="Victor R. Lesser" />
+    <edge source="Dabbala Rajagopal Reddy" target="R. D. Fenneli" />
+    <edge source="Dabbala Rajagopal Reddy" target="Lee D. Erman" />
+    <edge source="E. Sommerfeld" target="H. Hagendori" />
+    <edge source="E. Sommerfeld" target="W. Kolbe" />
+    <edge source="Gert Dathe" target="G. Henselmann" />
+    <edge source="Gert Dathe" target="Karl-Heinz Dreckmann" />
+    <edge source="Jim Gray" target="Gianfranco R. Putzolu" />
+    <edge source="Jim Gray" target="Irving L. Traiger" />
+    <edge source="Jim Gray" target="Raymond A. Lorie" />
+    <edge source="Y. Rubachin" target="D. Zavalishina" />
+    <edge source="Y. Rubachin" target="B. Lomov" />
+    <edge source="A. Narinyani" target="V. Pyatkin" />
+    <edge source="Hans Albrecht Schmid" target="Philip A. Bernstein" />
+    <edge source="Peter M. Will" target="Keith S. Pennington" />
+    <edge source="Charles Kellogg" target="John D. Burger" />
+    <edge source="Charles Kellogg" target="Kenneth Fogt" />
+    <edge source="Charles Kellogg" target="Philip Klahr" />
+    <edge source="Charles Kellogg" target="Timothy Diller" />
+    <edge source="Alexander K. Platonov" target="D. E. Okhotsimsky" />
+    <edge source="Anthony J. Winkler" target="Alfred G. Dale" />
+    <edge source="Leonard Uhr" target="Sara Jordan" />
+    <edge source="Leonard Uhr" target="Manfred Kochen" />
+    <edge source="K. Sundar Das" target="Toby J. Teorey" />
+    <edge source="H. Rex Hartson" target="David K. Hsiao" />
+    <edge source="H. Townsend" target="A. Hill" />
+    <edge source="Raymond A. Lorie" target="Gianfranco R. Putzolu" />
+    <edge source="Raymond A. Lorie" target="Irving L. Traiger" />
+    <edge source="Harry G. Barrow" target="Christopher M. Brown" />
+    <edge source="Harry G. Barrow" target="Rod M. Burstall" />
+    <edge source="Harry G. Barrow" target="A. Patricia Ambler" />
+    <edge source="Petr Sgall" target="Eva Hajicovaacute" />
+    <edge source="Tadashi Nagata" target="Masato Yamazaki" />
+    <edge source="Edwin B. Parker" target="Thomas H. Martin" />
+    <edge source="John W. Roach" target="Laurent Sikloacutessy" />
+    <edge source="B. L. Hills" target="R. L. Beurle" />
+    <edge source="B. L. Hills" target="M. V. Daniels" />
+    <edge source="Lawrence G. Tesler" target="David Canfield Smith" />
+    <edge source="L. Tannenholz" target="V. Krol" />
+    <edge source="John A. Moyne" target="Robert G. Tobey" />
+    <edge source="J. Dueck" target="Yaacov Choueka" />
+    <edge source="J. Dueck" target="M. Cohen" />
+    <edge source="J. Dueck" target="Aviezri S. Fraenkel" />
+    <edge source="J. Dueck" target="M. Slae" />
+    <edge source="George W. Ernst" target="Ranan B. Banerji" />
+    <edge source="Karl-Heinz Dreckmann" target="G. Henselmann" />
+    <edge source="A. Ershov" target="A. Nariniany" />
+    <edge source="A. Ershov" target="I. Mel'chuk" />
+    <edge source="Robert S. Boyer" target="J. Strother Moore" />
+    <edge source="Robert S. Boyer" target="W. W. Bledsoe" />
+    <edge source="Jacques Flament" target="Lucien A. Gerardin" />
+    <edge source="Mark L. Reynolds" target="Y. Edmund Lien" />
+    <edge source="Victor R. Lesser" target="R. D. Fenneli" />
+    <edge source="Victor R. Lesser" target="Lee D. Erman" />
+    <edge source="Fridrich Sloboda" target="Jaroslav Fogel" />
+    <edge source="Alfonso F. Cardenas" target="L. O. Brooks" />
+    <edge source="Alfonso F. Cardenas" target="E. Nahouraii" />
+    <edge source="Dennis Tsichritzis" target="Larry Kerschberg" />
+    <edge source="Richard A. Lewis" target="Antal K. Bejczy" />
+    <edge source="Kapali P. Eswaran" target="Donald D. Chamberlin" />
+    <edge source="V. Michima" target="S. Iwata" />
+    <edge source="V. Michima" target="S. Ishino" />
+    <edge source="Wiley R. McKinzie" target="Nicholas V. Findler" />
+    <edge source="Franco Sirovich" target="Giorgio Levi" />
+    <edge source="Kenneth Biss" target="Robert T. Chien" />
+    <edge source="Kenneth Biss" target="Steven J. Weissman" />
+    <edge source="Kenneth Biss" target="Fred A. Stahl" />
+    <edge source="Robert F. Sproull" target="Jay M. Tenenbaum" />
+    <edge source="Robert F. Sproull" target="R. Paul" />
+    <edge source="Robert F. Sproull" target="Karl K. Pingle" />
+    <edge source="Robert F. Sproull" target="Jerome A. Feldman" />
+    <edge source="Robert F. Sproull" target="Gilbert Falk" />
+    <edge source="Robert F. Sproull" target="Thomas O. Binford" />
+    <edge source="R. G. Thomson" target="W. N. Dawson" />
+    <edge source="R. G. Thomson" target="D. R. McGregor" />
+    <edge source="Renato de Mori" target="Angelo Serra" />
+    <edge source="Edward B. Altman" target="Michael E. Senko" />
+    <edge source="Clement T. Yu" target="Gerard Salton" />
+    <edge source="M. Cohen" target="Yaacov Choueka" />
+    <edge source="M. Cohen" target="Aviezri S. Fraenkel" />
+    <edge source="M. Cohen" target="M. Slae" />
+    <edge source="L. Shmelev" target="N. Pozin" />
+    <edge source="L. Shmelev" target="I. Lubinsky" />
+    <edge source="A. H. Watt" target="R. L. Beurle" />
+    <edge source="Bradford Heckman" target="Robert Healey" />
+    <edge source="S. Iwata" target="S. Ishino" />
+    <edge source="Franco Turini" target="Giuliano Pacini" />
+    <edge source="Eduardo B. Fernaacutendez" target="Rita C. Summers" />
+    <edge source="Eduardo B. Fernaacutendez" target="Tomaacutes Lang" />
+    <edge source="Norman Raver" target="George U. Hubbard" />
+    <edge source="Gilbert Falk" target="Jay M. Tenenbaum" />
+    <edge source="Gilbert Falk" target="Irwin Sobel" />
+    <edge source="Gilbert Falk" target="R. Paul" />
+    <edge source="Gilbert Falk" target="Karl K. Pingle" />
+    <edge source="Gilbert Falk" target="G. Grape" />
+    <edge source="Gilbert Falk" target="Jerome A. Feldman" />
+    <edge source="Gilbert Falk" target="Thomas O. Binford" />
+    <edge source="John J. Donovan" target="Stuart G. Greenberg" />
+    <edge source="John J. Donovan" target="Louis M. Gutentag" />
+    <edge source="John J. Donovan" target="Rafael Fessel" />
+    <edge source="J. Quinton" target="A. Andrew" />
+    <edge source="Oscar Firschein" target="Martin A. Fischler" />
+    <edge source="Oscar Firschein" target="Jay M. Tenenbaum" />
+    <edge source="Oscar Firschein" target="L. Stephen Coles" />
+    <edge source="R. Paul" target="Jay M. Tenenbaum" />
+    <edge source="R. Paul" target="Karl K. Pingle" />
+    <edge source="R. Paul" target="Jerome A. Feldman" />
+    <edge source="R. Paul" target="Thomas O. Binford" />
+    <edge source="Allan M. Collins" target="James R. Carbonell" />
+    <edge source="D. E. Okhotsimsky" target="A. K. Platongy" />
+    <edge source="Vladimir L. Arlazarov" target="M. V. Donskoy" />
+    <edge source="Earl Hunt" target="Gary A. Kildall" />
+    <edge source="Mario Aiello" target="Richard W. Weyhrauch" />
+    <edge source="Rod M. Burstall" target="Christopher M. Brown" />
+    <edge source="Rod M. Burstall" target="A. Patricia Ambler" />
+    <edge source="Rod M. Burstall" target="John Darlington" />
+    <edge source="Azriel Rosenfeld" target="Steven W. Zucker" />
+    <edge source="Azriel Rosenfeld" target="Larry S. Davis" />
+    <edge source="Thomas B. Sheridan" target="William R. Ferrell" />
+    <edge source="C. Roche" target="J. C. Simon" />
+    <edge source="C. Cordell Green" target="David R. Barstow" />
+    <edge source="James E. Mulford" target="Richard K. Ridall" />
+    <edge source="C. Green" target="D. Shaw" />
+    <edge source="C. Green" target="W. Wartout" />
+    <edge source="Andrew B. Whinston" target="William D. Haseman" />
+    <edge source="V. Fomenko" target="E. Kussul" />
+    <edge source="W. Snyder" target="Robert T. Chien" />
+    <edge source="Jay M. Tenenbaum" target="Martin A. Fischler" />
+    <edge source="Jay M. Tenenbaum" target="S. Weyl" />
+    <edge source="Jay M. Tenenbaum" target="Irwin Sobel" />
+    <edge source="Jay M. Tenenbaum" target="Karl K. Pingle" />
+    <edge source="Jay M. Tenenbaum" target="G. Grape" />
+    <edge source="Jay M. Tenenbaum" target="Jerome A. Feldman" />
+    <edge source="Jay M. Tenenbaum" target="L. Stephen Coles" />
+    <edge source="Jay M. Tenenbaum" target="Thomas O. Binford" />
+    <edge source="John Miles Smith" target="Chyuan Shiun Lin" />
+    <edge source="John Miles Smith" target="Diane C. P. Smith" />
+    <edge source="K. F. Samokhvalov" target="N. G. Zagoruyko" />
+    <edge source="H. Genchi" target="S. Katsuragi" />
+    <edge source="H. Genchi" target="S. Watanabe" />
+    <edge source="Kiyoo Takeyasu" target="Tatsuo Goto" />
+    <edge source="Kiyoo Takeyasu" target="Masakazu Ejiri" />
+    <edge source="Kiyoo Takeyasu" target="Takeshi Uno" />
+    <edge source="V. Jones" target="H. Chien" />
+    <edge source="Masakazu Ejiri" target="Tatsuo Goto" />
+    <edge source="Masakazu Ejiri" target="Takeshi Uno" />
+    <edge source="Stuart G. Greenberg" target="Louis M. Gutentag" />
+    <edge source="Stuart G. Greenberg" target="Rafael Fessel" />
+    <edge source="Kenneth R. Laughery" target="Allen L. Pinkus" />
+    <edge source="Chyuan Shiun Lin" target="Diane C. P. Smith" />
+    <edge source="Donald D. Chamberlin" target="Raymond F. Boyce" />
+    <edge source="Donald D. Chamberlin" target="W. Frank King III" />
+    <edge source="Michael H. Smith" target="L. Stephen Coles" />
+    <edge source="I. Fominykh" target="G. Pozdnyak" />
+    <edge source="J. B. Cohen" target="H. C. Heacox" />
+    <edge source="M. Gaft" target="V. Ozernoi" />
+    <edge source="Vesko Marinov" target="Laurent Sikloacutessy" />
+    <edge source="Jeffrey Yeh" target="James S. Albus" />
+    <edge source="E. Neidhart" target="P. Hauff" />
+    <edge source="Jerome A. Feldman" target="Irwin Sobel" />
+    <edge source="Jerome A. Feldman" target="Karl K. Pingle" />
+    <edge source="Jerome A. Feldman" target="G. Grape" />
+    <edge source="Jerome A. Feldman" target="Yoram Yakimovsky" />
+    <edge source="Jerome A. Feldman" target="Thomas O. Binford" />
+    <edge source="Robert M. Hodgson" target="G. A. Gelade" />
+    <edge source="Robert M. Hodgson" target="R. L. Beurle" />
+    <edge source="Kunikatsu Takase" target="Harukazu Nishio" />
+    <edge source="Kunikatsu Takase" target="Masahiro Mori" />
+    <edge source="Marilyn M. Mantei" target="Fredric C. Gey" />
+    <edge source="Jeffrey A. Hoffer" target="Dennis G. Severance" />
+    <edge source="Peter Freeman" target="Allen Newell" />
+    <edge source="T. Gorgely" target="Hajnal Andreacuteka" />
+    <edge source="W. J. Berman" target="Richard L. Guertin" />
+    <edge source="W. J. Berman" target="W. C. Kiefer" />
+    <edge source="W. J. Berman" target="J. R. Schroeder" />
+    <edge source="Daniel Bertaux" target="Andreacute-Roch Lecours" />
+    <edge source="Daniel Bertaux" target="Franccedilois Lhermitte" />
+    <edge source="G. A. Gelade" target="R. L. Beurle" />
+    <edge source="Ann E. Robinson" target="William H. Paxton" />
+    <edge source="N. Ivacevic" target="Luigi P. Cordella" />
+    <edge source="N. Ivacevic" target="Shuhei Aida" />
+    <edge source="Nick Cercone" target="Lenhart K. Schubert" />
+    <edge source="G. Jack Lipovski" target="George P. Copeland" />
+    <edge source="G. Jack Lipovski" target="Stanley Y. W. Su" />
+    <edge source="D. R. McGregor" target="W. N. Dawson" />
+    <edge source="Richard J. Waldinger" target="Richard C. T. Lee" />
+    <edge source="Manabu Takeda" target="Akira Kurematsu" />
+    <edge source="Manabu Takeda" target="Seiichi Inoue" />
+    <edge source="M. Slae" target="Yaacov Choueka" />
+    <edge source="M. Slae" target="Aviezri S. Fraenkel" />
+    <edge source="G. Kotler" target="V. Akhutin" />
+    <edge source="G. Kotler" target="M. Ioffe" />
+    <edge source="G. Kotler" target="A. Rats" />
+    <edge source="T. Nishimura" target="M. Nogeta" />
+    <edge source="T. Nishimura" target="M. Nakanishi" />
+    <edge source="T. Nishimura" target="Y. Iwamaru" />
+    <edge source="V. Yufa" target="V. Briebrin" />
+    <edge source="V. Yufa" target="V. Serebriekov" />
+    <edge source="Y. Iwamaru" target="M. Nogeta" />
+    <edge source="Y. Iwamaru" target="M. Nakanishi" />
+    <edge source="P. Tchudinov" target="T. Kirsanova" />
+    <edge source="Seiichi Inoue" target="Akira Kurematsu" />
+    <edge source="Yoshiaki Shirai" target="Motoi Suwa" />
+    <edge source="Rafael Fessel" target="Louis M. Gutentag" />
+    <edge source="L. Stephen Coles" target="Martin A. Fischler" />
+    <edge source="Rita C. Summers" target="Tomaacutes Lang" />
+    <edge source="Robert T. Chien" target="Steven J. Weissman" />
+    <edge source="Robert T. Chien" target="Fred A. Stahl" />
+    <edge source="A. Rats" target="V. Akhutin" />
+    <edge source="A. Rats" target="M. Ioffe" />
+    <edge source="Rada M. Granovskaya" target="I. J. Bereznaya" />
+    <edge source="Alexander Borgida" target="L. Sugar" />
+    <edge source="J. K. Metzger" target="Rudolf Bayer" />
+    <edge source="David E. Rumelhart" target="Donald A. Norman" />
+    <edge source="Peter L. Noerr" target="M. C. White" />
+    <edge source="Gerald J. Agin" target="Thomas O. Binford" />
+    <edge source="W. Kolbe" target="H. Hagendori" />
+    <edge source="Christopher M. Brown" target="G. Crawford" />
+    <edge source="Christopher M. Brown" target="A. Patricia Ambler" />
+    <edge source="Neil M. Goldman" target="Charles J. Rieger III" />
+    <edge source="Dennis de Champeaux" target="Lenie Sint" />
+    <edge source="V. Serebriekov" target="V. Briebrin" />
+    <edge source="R. L. Beurle" target="M. V. Daniels" />
+    <edge source="R. L. Beurle" target="R. B. Guy" />
+    <edge source="R. L. Beurle" target="A. J. Crawford" />
+    <edge source="Andrew K. C. Wong" target="Edward L. Morofsky" />
+    <edge source="Fred A. Stahl" target="Steven J. Weissman" />
+    <edge source="S. Kamynin" target="Y. Buchstab" />
+    <edge source="Richard Steiger" target="Carl Hewitt" />
+    <edge source="Richard Steiger" target="Peter Boehler Bishop" />
+    <edge source="Elliot B. Koffman" target="R. Hart" />
+    <edge source="Elliot B. Koffman" target="Sumner E. Blount" />
+    <edge source="Kenneth Fogt" target="John D. Burger" />
+    <edge source="Kenneth Fogt" target="Timothy Diller" />
+    <edge source="Irving L. Traiger" target="Gianfranco R. Putzolu" />
+    <edge source="Makoto Nagao" target="Jun'ichi Tsujii" />
+    <edge source="P. F. King" target="Jack E. Shemer" />
+    <edge source="Luigi P. Cordella" target="Shuhei Aida" />
+    <edge source="I. Lubinsky" target="N. Pozin" />
+    <edge source="Aviezri S. Fraenkel" target="Yaacov Choueka" />
+    <edge source="Wesley W. Chu" target="E. Nahouraii" />
+    <edge source="Masahiro Mori" target="Shuhei Aida" />
+    <edge source="Masahiro Mori" target="Harukazu Nishio" />
+    <edge source="J. R. Schroeder" target="Richard L. Guertin" />
+    <edge source="J. R. Schroeder" target="W. C. Kiefer" />
+    <edge source="W. C. Kiefer" target="Richard L. Guertin" />
+    <edge source="Steven W. Zucker" target="Larry S. Davis" />
+    <edge source="Michael F. Mitoma" target="Keki B. Irani" />
+    <edge source="Hajnal Andreacuteka" target="Tamaacutes Gergely" />
+    <edge source="Georg Walch" target="R. Erbe" />
+    <edge source="Stuart C. Shapiro" target="George H. Woodmansee" />
+    <edge source="Frederick Hayes-Roth" target="D. Moslow" />
+    <edge source="James R. McSkimin" target="Daniel H. Fishman" />
+    <edge source="James R. McSkimin" target="Jack Minker" />
+    <edge source="Richard C. T. Lee" target="James R. Slagle" />
+    <edge source="W. Frank King III" target="Raymond F. Boyce" />
+    <edge source="Tatsuo Goto" target="Takeshi Uno" />
+    <edge source="Juro Oizumi" target="Shoichi Noguchi" />
+    <edge source="M. Nakanishi" target="M. Nogeta" />
+    <edge source="S. Katsuragi" target="S. Watanabe" />
+    <edge source="Frank O'Gorman" target="M. B. Clowes" />
+    <edge source="V. S. Gurfinkel" target="A. Yu. Shneider" />
+    <edge source="V. S. Gurfinkel" target="E. Gurfinkel" />
+    <edge source="G. Crawford" target="A. Patricia Ambler" />
+    <edge source="T. Hoshino" target="K. Kiji" />
+    <edge source="Laurent Sikloacutessy" target="D. Sykas" />
+    <edge source="A. Checroun" target="J. C. Simon" />
+    <edge source="Joshua Lederberg" target="Edward A. Feigenbaum" />
+    <edge source="Robert P. Abelson" target="Carol M. Reich" />
+    <edge source="G. Grape" target="Irwin Sobel" />
+    <edge source="George P. Copeland" target="Stanley Y. W. Su" />
+    <edge source="E. Nahouraii" target="L. O. Brooks" />
+    <edge source="M. Ioffe" target="V. Akhutin" />
+    <edge source="B. Lomov" target="D. Zavalishina" />
+    <edge source="Shoichi Noguchi" target="Shingo Tomita" />
+    <edge source="Dmitri A. Pospelov" target="M. Goeze-Rapopori" />
+    <edge source="Dmitri A. Pospelov" target="V. Zekharov" />
+    <edge source="A. Yu. Shneider" target="E. Gurfinkel" />
+    <edge source="J. Spruce Riordon" target="Samy A. Mahmoud" />
+    <edge source="A. J. Crawford" target="R. B. Guy" />
+    <edge source="Peter Boehler Bishop" target="Carl Hewitt" />
+    <edge source="Alan L. Tharp" target="Gilbert K. Krulee" />
+    <edge source="Thomas H. Martin" target="Richard L. Guertin" />
+    <edge source="Masahiko Yachida" target="Fumiaki Tomita" />
+    <edge source="R. Miller" target="Harry E. Pople" />
+    <edge source="Nils J. Nilsson" target="Richard Fikes" />
+    <edge source="Karl K. Pingle" target="Thomas O. Binford" />
+    <edge source="Andreacute-Roch Lecours" target="Franccedilois Lhermitte" />
+    <edge source="W. Wartout" target="D. Shaw" />
+    <edge source="Timothy Diller" target="John D. Burger" />
+    <edge source="Daniel H. Fishman" target="Jack Minker" />
+    <edge source="I. Mel'chuk" target="A. Nariniany" />
+    <edge source="Lee D. Erman" target="R. D. Fenneli" />
+    <edge source="M. Goeze-Rapopori" target="V. Zekharov" />
+    <edge source="David Chen" target="Nicholas V. Findler" />
+  </graph>
+</graphml>

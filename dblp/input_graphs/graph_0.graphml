@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="Azriel Rosenfeld" />
+    <node id="Roger C. Schank" />
+    <node id="M. V. Daniels" />
+    <node id="Daniel G. Bobrow" />
+    <node id="Jacques Flament" />
+    <node id="Paul Rovner" />
+    <node id="H. Genchi" />
+    <node id="Stuart C. Shapiro" />
+    <node id="William R. Ferrell" />
+    <node id="S. Watanabe" />
+    <node id="Andreacute-Roch Lecours" />
+    <node id="Edward A. Patrick" />
+    <node id="Richard J. Waldinger" />
+    <node id="Juro Oizumi" />
+    <node id="G. M. Feldman" />
+    <node id="Fridrich Sloboda" />
+    <node id="Gilbert K. Krulee" />
+    <node id="Allen L. Pinkus" />
+    <node id="Masahiro Mori" />
+    <node id="B. Boverie" />
+    <node id="David Canfield Smith" />
+    <node id="Harukazu Nishio" />
+    <node id="Shoichi Noguchi" />
+    <node id="Daniel Bertaux" />
+    <node id="Kenneth R. Laughery" />
+    <node id="Frederic P. Fischer II" />
+    <node id="Franccedilois Lhermitte" />
+    <node id="R. B. Guy" />
+    <node id="Sara Jordan" />
+    <node id="W. D. Gregg" />
+    <node id="Kenneth Mark Colby" />
+    <node id="Wiley R. McKinzie" />
+    <node id="D. Austin Henderson Jr." />
+    <node id="John L. Pfaltz" />
+    <node id="Lucien A. Gerardin" />
+    <node id="A. J. Crawford" />
+    <node id="R. L. Beurle" />
+    <node id="J. Pearlman" />
+    <node id="Thomas B. Sheridan" />
+    <node id="Chin-Liang Chang" />
+    <node id="S. Katsuragi" />
+    <node id="Irwin Sobel" />
+    <node id="Alan L. Tharp" />
+    <node id="B. L. Hills" />
+    <node id="Lawrence G. Tesler" />
+    <node id="P. Murden" />
+    <node id="E. Neidhart" />
+    <node id="James R. Slagle" />
+    <node id="Jerome A. Feldman" />
+    <node id="George H. Woodmansee" />
+    <node id="Shuhei Aida" />
+    <node id="Carol M. Reich" />
+    <node id="T. Hoshino" />
+    <node id="Jay M. Tenenbaum" />
+    <node id="Richard C. T. Lee" />
+    <node id="Jaroslav Fogel" />
+    <node id="K. Mori" />
+    <node id="M. Symons" />
+    <node id="Gen-ichiro Kinoshita" />
+    <node id="Horace Enea" />
+    <node id="P. Hauff" />
+    <node id="Robert P. Abelson" />
+    <node id="K. Kiji" />
+    <node id="Nicholas V. Findler" />
+    <node id="J. Bruce Fraser" />
+    <node id="Kunikatsu Takase" />
+    <node id="Gilbert Falk" />
+    <node id="Manfred Kochen" />
+    <node id="G. Grape" />
+    <node id="Leonard Uhr" />
+    <edge source="Azriel Rosenfeld" target="John L. Pfaltz" />
+    <edge source="Roger C. Schank" target="Lawrence G. Tesler" />
+    <edge source="M. V. Daniels" target="R. L. Beurle" />
+    <edge source="M. V. Daniels" target="B. L. Hills" />
+    <edge source="Daniel G. Bobrow" target="J. Bruce Fraser" />
+    <edge source="Jacques Flament" target="Lucien A. Gerardin" />
+    <edge source="Paul Rovner" target="D. Austin Henderson Jr." />
+    <edge source="H. Genchi" target="S. Katsuragi" />
+    <edge source="H. Genchi" target="S. Watanabe" />
+    <edge source="H. Genchi" target="K. Mori" />
+    <edge source="Stuart C. Shapiro" target="George H. Woodmansee" />
+    <edge source="William R. Ferrell" target="Thomas B. Sheridan" />
+    <edge source="S. Watanabe" target="S. Katsuragi" />
+    <edge source="S. Watanabe" target="K. Mori" />
+    <edge source="Andreacute-Roch Lecours" target="Franccedilois Lhermitte" />
+    <edge source="Andreacute-Roch Lecours" target="Daniel Bertaux" />
+    <edge source="Edward A. Patrick" target="Frederic P. Fischer II" />
+    <edge source="Richard J. Waldinger" target="Richard C. T. Lee" />
+    <edge source="Juro Oizumi" target="Shoichi Noguchi" />
+    <edge source="G. M. Feldman" target="J. Pearlman" />
+    <edge source="G. M. Feldman" target="Jay M. Tenenbaum" />
+    <edge source="G. M. Feldman" target="Irwin Sobel" />
+    <edge source="G. M. Feldman" target="Jerome A. Feldman" />
+    <edge source="G. M. Feldman" target="Gilbert Falk" />
+    <edge source="G. M. Feldman" target="G. Grape" />
+    <edge source="Fridrich Sloboda" target="Jaroslav Fogel" />
+    <edge source="Gilbert K. Krulee" target="Alan L. Tharp" />
+    <edge source="Allen L. Pinkus" target="Kenneth R. Laughery" />
+    <edge source="Masahiro Mori" target="Kunikatsu Takase" />
+    <edge source="Masahiro Mori" target="Harukazu Nishio" />
+    <edge source="B. Boverie" target="W. D. Gregg" />
+    <edge source="David Canfield Smith" target="Kenneth Mark Colby" />
+    <edge source="Harukazu Nishio" target="Kunikatsu Takase" />
+    <edge source="Daniel Bertaux" target="Franccedilois Lhermitte" />
+    <edge source="R. B. Guy" target="R. L. Beurle" />
+    <edge source="R. B. Guy" target="A. J. Crawford" />
+    <edge source="Sara Jordan" target="Leonard Uhr" />
+    <edge source="Kenneth Mark Colby" target="Horace Enea" />
+    <edge source="Kenneth Mark Colby" target="Lawrence G. Tesler" />
+    <edge source="Wiley R. McKinzie" target="Nicholas V. Findler" />
+    <edge source="A. J. Crawford" target="R. L. Beurle" />
+    <edge source="R. L. Beurle" target="B. L. Hills" />
+    <edge source="J. Pearlman" target="Jay M. Tenenbaum" />
+    <edge source="J. Pearlman" target="Irwin Sobel" />
+    <edge source="J. Pearlman" target="Jerome A. Feldman" />
+    <edge source="J. Pearlman" target="Gilbert Falk" />
+    <edge source="J. Pearlman" target="G. Grape" />
+    <edge source="Chin-Liang Chang" target="Richard C. T. Lee" />
+    <edge source="Chin-Liang Chang" target="James R. Slagle" />
+    <edge source="S. Katsuragi" target="K. Mori" />
+    <edge source="Irwin Sobel" target="Jay M. Tenenbaum" />
+    <edge source="Irwin Sobel" target="Jerome A. Feldman" />
+    <edge source="Irwin Sobel" target="Gilbert Falk" />
+    <edge source="Irwin Sobel" target="G. Grape" />
+    <edge source="Lawrence G. Tesler" target="Horace Enea" />
+    <edge source="P. Murden" target="M. Symons" />
+    <edge source="E. Neidhart" target="P. Hauff" />
+    <edge source="James R. Slagle" target="Richard C. T. Lee" />
+    <edge source="Jerome A. Feldman" target="Jay M. Tenenbaum" />
+    <edge source="Jerome A. Feldman" target="Gilbert Falk" />
+    <edge source="Jerome A. Feldman" target="G. Grape" />
+    <edge source="Shuhei Aida" target="Gen-ichiro Kinoshita" />
+    <edge source="Carol M. Reich" target="Robert P. Abelson" />
+    <edge source="T. Hoshino" target="K. Kiji" />
+    <edge source="Jay M. Tenenbaum" target="Gilbert Falk" />
+    <edge source="Jay M. Tenenbaum" target="G. Grape" />
+    <edge source="Gilbert Falk" target="G. Grape" />
+    <edge source="Manfred Kochen" target="Leonard Uhr" />
+  </graph>
+</graphml>
