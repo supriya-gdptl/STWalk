@@ -11,6 +11,7 @@ import sys
 import time
 from multiprocessing import cpu_count
 import argparse
+import os
 
 def createSpaceTimeGraph(G_list, time_window, start_node, time_step):
     """
@@ -209,6 +210,9 @@ if __name__ == '__main__':
     elif arg.dataset == "dblp":
         direc = "../" + arg.dataset
         max_timestep = 44
+
+    if not os.path.exists(direc+"/output_stwalktwo"):
+        os.makedirs(direc+"/output_stwalktwo")
 
     number_restart = 40
     walk_length_time = 30
