@@ -10,6 +10,7 @@ import sys
 from multiprocessing import cpu_count
 import time
 import argparse
+import os
 
 
 def createSpaceTimeGraph(G_list, time_window, start_node, time_step):
@@ -139,6 +140,9 @@ if __name__ == '__main__':
     representation_size = 64
     vocab_window_size = 5
     time_window_size = 5  # number of previous time steps graphs plus current time step graph
+
+    if not os.path.exists(direc+"/output_stwalkone"):
+        os.makedirs(direc+"/output_stwalkone")
 
     workers = cpu_count()
     seq = []
