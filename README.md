@@ -1,6 +1,6 @@
 # STWalk
 
-This repository contains implementation of "STWalk: Learning Trajectory Representations in Temporal Graphs".
+This repository contains implementation of STWalk: Learning Trajectory Representations in Temporal Graphs.
 
 STWalk uses structural properties of graphs at present and previous time-steps to capture the spatio-temporal behavior of nodes. 
 There are two variants of STWalk:
@@ -8,6 +8,9 @@ There are two variants of STWalk:
  
  *  STWalk2: It learns spatial representation and temporal representation separately and then combines them to generate trajectory representation.
 
+
+
+*Supriya Pandhre, Himangi Mittal, Manish Gupta and Vineeth N Balasubramanian [STWalk: Learning Trajectory Representations in Temporal Graphs](https://arxiv.org/abs/1711.04150)*
 
 ## Requirement
 *  python 3.4 (or later)
@@ -43,5 +46,7 @@ We experiment on three real-world datasets: DBLP, Epinion, Ciao datasets
 Please cite our paper if you use this code in your work:
 
 Paper title: STWalk: Learning Trajectory Representations in Temporal Graphs
+
+Link: https://arxiv.org/abs/1711.04150
 
 Authors: Supriya Pandhre, Himangi Mittal, Manish Gupta, Vineeth N Balasubramanian
